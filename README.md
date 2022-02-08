@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CreasedPaper
+- 👋 Hi, I’m Susan Brethauer
 - 👀 I’m interested in making clicker/idle games
 - 🌱 I’m currently in my third year of my computer science undergrad
 
