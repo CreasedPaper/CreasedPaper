@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Susan Brethauer
 - 👀 I’m interested in making clicker/idle games
-- 🌱 I’m currently in my last year of my computer science undergrad
+- 🌱 I’ve just finished my BS in computer science
 
 <!---
 CreasedPaper/CreasedPaper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
